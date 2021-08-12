@@ -1,1 +1,23 @@
+C++ Introduction
+
+P.S: I prepared my notes and this GitHub repo from various sources like C++ complete reference and some YouTube videos
+--------------------------------------------------------------------------------------------------------------------------------------
+History of C++:
+•	Developed by Bjarne Stroustrup of Bell Laboratories in the early 1980s as a extension of c language.
+•	It was initially called c with classes and later renamed as C++.
+•	It was developed for adding a feature of OOP (Object Oriented Programming) in C without significantly changing the C component.
+
+
+Hello World Program
+--------------------------------------------------------------------------------------------------------------------------------------
+#include<iostream>
+void main()
+{
+  cout<<"Hello, World!";
+}
+
+#include<iostream.h> includes the standard input output library functions. It provides cin and cout methods for reading from input and writing to output respectively.
+void main() The main() function is the entry point of every program in C++ language. The void keyword specifies that it returns no value.
+cout << "Welcome to C++ Programming." is used to print the data "Welcome to C++ Programming." on the console.
+
 
